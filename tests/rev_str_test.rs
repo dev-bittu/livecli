@@ -1,5 +1,5 @@
 use std::collections::HashMap;
-use livecli::*;
+use livecli::reverse_string;
 
 #[test]
 fn reverse_string_test() {
